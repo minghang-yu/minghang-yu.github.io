@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
+
 Mr. Minghang Yu is a fourth-year Ph.D. Candidate at the [Department of Real Estate](https://bschool.nus.edu.sg/real-estate/) of National University of Singapore (NUS). He is currently co-supervised by Associate Professor [Yuming Fu](https://discovery.nus.edu.sg/905-yuming-fu) from [NUS Business School](https://bschool.nus.edu.sg/) and [NUS College of Design and Engineering](https://cde.nus.edu.sg/), and Associate Professor [Kwan Ok Lee](https://discovery.nus.edu.sg/3104-kwan-ok-lee) from [NUS Business School](https://bschool.nus.edu.sg/).
 
 His research interests include urban planning and policy, public health, and transportation and travel behaviors. His current works focus on interactions between multiple urban built environment factors and people's well-being outcomes, including (1) public space access and people's mental well-being, as well as (2) urban land use planning and transportation equity, and (3) trade-offs in residential location choices and related outcomes.
