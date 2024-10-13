@@ -5,14 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research Works"
+  - title: "Research Works / 研究"
     url: /publications/    
 
-  - title: "Teaching"
+  - title: "Teaching / 教学"
     url: /teaching/    
     
-  - title: "CV"
+  - title: "CV / 简历"
     url: /assets/CV_Yu Minghang.pdf
     
-  - title: "Contact"
+  - title: "Contact / 联系方式"
     url: /markdown/
