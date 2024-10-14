@@ -7,11 +7,11 @@ redirect_from:
 ---
 
 Working Papers
-===
+---
 * "Neighborhood public space, quarantine experience, and depression: Evidence from Beijing, China." (with Yuming Fu, Tao Liu, and Xize Wang)
 
 Work In Progress
-===
+---
 * "Role of land use planning to mobility equity: Using ride-hailing data in Singapore." (with Kwan Ok Lee, Shih-Fen Cheng, and Sylvia He)
 * "Unmasking residential choices of young households: A focus on market segmentation and trade-offs in Singapore." (with Kwan Ok Lee, Cristian Badarinza, and Hau Wei Teng)
 * "Do people walk more when they are sheltered from sun and rain? Big data evidence from the sheltered walkway program in Singapore." (with Qiuxia Gao, Shuting, Zhang, and Kwan Ok Lee)
