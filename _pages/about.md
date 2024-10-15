@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 Mr. Minghang Yu is a fourth-year Ph.D. Candidate at the [Department of Real Estate](https://bschool.nus.edu.sg/real-estate/) of National University of Singapore (NUS). He is currently co-supervised by Associate Professor [Yuming Fu](https://discovery.nus.edu.sg/905-yuming-fu) from [NUS Business School](https://bschool.nus.edu.sg/) and [NUS College of Design and Engineering](https://cde.nus.edu.sg/), and Associate Professor [Kwan Ok Lee](https://discovery.nus.edu.sg/3104-kwan-ok-lee) from [NUS Business School](https://bschool.nus.edu.sg/).
 
