@@ -40,7 +40,25 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.abstract-toggle {
+  display: none;
+}
+
 .abstract-link {
   color: #52adc8;
+  cursor: pointer;
   font-weight: 500;
+}
+
+.abstract-link:hover {
+  text-decoration: underline;
+}
+
+.abstract-content {
+  display: none;
+  margin-top: 0.5em;
+}
+
+.abstract-toggle:checked ~ .abstract-content {
+  display: block;
 }
