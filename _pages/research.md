@@ -16,7 +16,7 @@ _Land use and urban planning_
 * "Transportation Infrastructure and Spatial Redistribution of Urban Land Use: Evidence from Chinese Counties near Beijing-Shanghai HSR" (with Xuewen Li, Wu Xiao, and Jiatong Zhou) _(Slides are available upon request)_
 
 _Housing policies_
-* "Housing Market Segmentation and Young Homebuyers' Trade-Offs: Evidence from Singapore's Presale Public Housing Reform." (with Kwan Ok Lee, Cristian Badarinza, and Hau Wei Teng) _(Slides are available upon request)_
+* "Policy-induced re-sorting and congestion in rationed housing markets." (with Cristian Badarinza, Kwan Ok Lee, and Hau Wei Teng) _(Slides are available upon request)_
 
 Selected Works In Progress
 ---
