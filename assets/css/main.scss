@@ -41,23 +41,23 @@
 @import "print";
 
 .paper-links {
-  display: inline;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.25em;
   white-space: nowrap;
 }
 
-.abstract-toggle {
-  display: none;
-}
-
 .abstract-link {
-  display: inline !important;
-  width: auto !important;
-  margin: 0 !important;
-  padding: 0 !important;
+  display: inline;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
   color: #52adc8;
-  cursor: pointer;
+  font: inherit;
   font-weight: 500;
-  vertical-align: baseline;
+  cursor: pointer;
 }
 
 .abstract-link:hover {
@@ -65,10 +65,5 @@
 }
 
 .abstract-content {
-  display: none;
   margin-top: 0.5em;
-}
-
-.abstract-toggle:checked ~ .abstract-content {
-  display: block;
 }
