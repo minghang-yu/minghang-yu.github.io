@@ -15,7 +15,7 @@ _Land use and urban planning_
 
 <ul>
   <li>
-    "Linking neighborhoods to transit: Climate-resilient mobility through sheltered walkways" (with Qiuxia Gao, Kwan Ok Lee, and Shuting Zhang)
+    "Linking neighborhoods to transit: Climate-resilient mobility through sheltered walkways." (with Qiuxia Gao, Kwan Ok Lee, and Shuting Zhang)
     <span class="paper-links">
       <button type="button" class="abstract-link" onclick="document.getElementById('abstract-sheltered-walkways').toggleAttribute('hidden')">[Abstract]</button>
       <span>| <em>Slides and manuscript are available upon request</em></span>
@@ -26,8 +26,20 @@ _Land use and urban planning_
     </div>
   </li>
 </ul>
-* "Transportation Infrastructure and Spatial Redistribution of Urban Land Use: Evidence from Chinese Counties near Beijing-Shanghai HSR" (with Xuewen Li, Wu Xiao, and Jiatong Zhou) _(Slides are available upon request)_
 
+<ul>
+  <li>
+    "High-speed railway station siting and anisotropic urban expansion: Evidence from China." (with Xuewen Li, Wu Xiao, and Jiatong Zhou)
+    <span class="paper-links">
+      <button type="button" class="abstract-link" onclick="document.getElementById('abstract-hsrsiting').toggleAttribute('hidden')">[Abstract]</button>
+      <span>| <em>Slides and manuscript are available upon request</em></span>
+    </span>
+
+    <div id="abstract-hsrsiting" class="abstract-content" hidden>
+      High-speed railway investments are promoted as engines of urban expansion, yet existing studies largely focus on average effects and overlook how station siting reshapes the directional structure of urban expansion. This gap is consequential for planning practice, as station locations are largely administratively determined and closely intertwined with land-use regulation. This study examines whether and how HSR stations reorient urban expansion toward specific spatial directions, generating anisotropic growth rather than uniform radial expansion. Using grid-level land development data, we construct directional expansion indicators that capture both alignment with the station direction and the intensity of development. Empirically, we find that following HSR opening, urban expansion becomes significantly more station-oriented. Newly developed areas extend approximately 2.3 to 2.5 km farther toward HSR stations relative to other directions, while directional alignment increases by about 6.1 to 6.3 percentage points. These effects are pronounced around peripheral stations but largely absent for inner-city stations embedded within existing urban cores. Sector-level analyses further show that station-oriented alignment translates into substantial increases in developed land rather than marginal geometric shifts. To interpret these patterns, we develop a spatial equilibrium model that extends the monocentric city framework by introducing an external transport node providing access to external markets. The model predicts directionally differentiated bid rents and outward expansion biased toward the station, mirroring the observed empirical regularities. The findings suggest that HSR stations act as directional anchors of urban growth. For planning practice, they highlight the importance of coordinating station siting with land supply sequencing and zoning controls, particularly in peripheral areas, to manage long-run spatial imbalance and uneven development trajectories.
+    </div>
+  </li>
+</ul>
 
 _Housing policies_
 
