@@ -40,6 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.paper-links {
+  white-space: nowrap;
+}
+
 .abstract-toggle {
   display: none;
 }
