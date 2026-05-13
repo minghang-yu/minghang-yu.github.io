@@ -74,3 +74,5 @@ Selected Works In Progress
 </ul>
 
 * "Capacity dividend vs. Perceived negative externalities: A study on the effects of large grid nodes on land and housing markets in China." (with Xuewen Li and Shaojun Wang)
+
+* "Information, expectations, and housing pathways under public housing segmentation." (with Cristian Badarinza, Kwan Ok Lee, and Hau Wei Teng) 
