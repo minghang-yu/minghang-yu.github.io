@@ -48,20 +48,26 @@
 }
 
 .abstract-link {
-  display: inline;
-  width: auto;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  background: none;
-  color: #52adc8;
-  font: inherit;
-  font-weight: 500;
+  appearance: none;
+  -webkit-appearance: none;
+  display: inline !important;
+  width: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  color: #52adc8 !important;
+  font: inherit !important;
+  font-weight: 500 !important;
+  line-height: inherit !important;
   cursor: pointer;
 }
 
-.abstract-link:hover {
-  text-decoration: underline;
+.abstract-link:hover,
+.abstract-link:focus {
+  outline: 1px dotted #52adc8;
+  outline-offset: 2px;
 }
 
 .abstract-content {
