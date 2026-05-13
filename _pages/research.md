@@ -12,7 +12,20 @@ _Built environment and mental well-being_
 * "Neighborhood public space, quarantine experience, and depression: Evidence from Beijing, China." (with Yuming Fu, Tao Liu, and Xize Wang) _(Slides are available upon request)_
 
 _Land use and urban planning_
-* "Walking under shelter: Evidence from the sheltered walkway program in Singapore." (with Qiuxia Gao, Shuting Zhang, and Kwan Ok Lee) _(Slides are available upon request)_
+
+<ul>
+  <li>
+    "Linking neighborhoods to transit: Climate-resilient mobility through sheltered walkways" (with Qiuxia Gao, Kwan Ok Lee, and Shuting Zhang)
+    <span class="paper-links">
+      <button type="button" class="abstract-link" onclick="document.getElementById('abstract-sheltered-walkways').toggleAttribute('hidden')">[Abstract]</button>
+      <span>| <em>Slides and manuscript are available upon request</em></span>
+    </span>
+
+    <div id="abstract-sheltered-walkways" class="abstract-content" hidden>
+      Cities seeking climate-resilient mobility must shift short trips from motorized to active modes, yet heat and precipitation raise the access cost of walking. Exploiting Singapore’s Walk-to-Ride Programme, we test whether passive, climate-adaptive infrastructure changes travel behavior at the margin. We combine geolocated rollout records of sheltered walkways, high-frequency bus-stop-level origin–destination flows, and three waves of household travel surveys. Motivated by the stylized negative association between surrounding sheltered walkway coverage and short-distance bus feeder trips at the transit hub level, difference-in-differences estimates based on sheltered walkway connection show that sheltered walkway construction increases walking-to-hub access by 9.4 percentage points and reduces short-distance-feeder bus access by 8.6 percentage points. Effects concentrate within 800 meters from transit hubs and intensify during rainfall periods, consistent with lower exposure costs. We also find a 3.3-percentage-point increase in walking in the entire-trip mode choice. Modular, low-cost retrofits along existing rights-of-way can unlock suppressed walking demand and strengthen transit system robustness under a warmer, more precipitation-extreme climate.
+    </div>
+  </li>
+</ul>
 * "Transportation Infrastructure and Spatial Redistribution of Urban Land Use: Evidence from Chinese Counties near Beijing-Shanghai HSR" (with Xuewen Li, Wu Xiao, and Jiatong Zhou) _(Slides are available upon request)_
 
 _Housing policies_
