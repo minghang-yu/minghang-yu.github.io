@@ -59,11 +59,21 @@ _Housing policies_
   
 Selected Works In Progress
 ---
-_Land use and urban planning_
-* "Role of land use planning to mobility equity: Using ride-hailing data in Singapore." (with Kwan Ok Lee, Shih-Fen Cheng, and Sylvia He)
-* "Land Supply and Urban Heights" (with Xuewen Li, Wu Xiao, Kechao Wang, and Hongyang Li)
 
-_Built environment and mental well-being_
-* "Remote working experience, work-family interface, and mental well-being: Evidence from China."
+<ul>
+  <li>
+    "When mismatch meets mixed use: Urban land use and passenger-driver outcomes in ride-hailing market." (with Shih-Fen Cheng, Sylvia He, and Kwan Ok Lee)
+    <span class="paper-links">
+      <button type="button" class="abstract-link" onclick="document.getElementById('abstract-gojek').toggleAttribute('hidden')">[Abstract]</button>
 
+    <div id="abstract-gojek" class="abstract-content" hidden>
+     Ride-hailing platforms are increasingly embedded in urban transportation systems, yet their service performance remains sensitive to localized demand-supply imbalances. This study examines how grid-level mismatch is associated with passenger and driver service outcomes, and whether land use diversity moderates these relationships. We distinguish mismatch exposure from spatial vulnerability: mismatch captures the extent of local imbalance, while land use diversity may shape how strongly that imbalance translates into waiting costs. We use proprietary ride-hailing data from a leading ride-hailing service provider in Singapore from September to November 2019. We construct a local demand-supply mismatch index from differences between demand and supply shares, and measure land use diversity using a Gross Plot Ratio-weighted entropy index based on Singapore Master Plan 2019 parcel data. Empirically, we estimate OLS models with high-dimensional spatial and temporal fixed effects and two-way clustered standard errors. The preliminary results show that the mismatch is strongly associated with higher service costs on both sides of the platform. A one-standard-deviation increase in mismatch is associated with a 15.3 percent increase in passenger waiting time and a 5.5 percent increase in driver idle time, conditional on detailed controls. Land use diversity does not significantly predict mismatch exposure once spatial and temporal fixed effects are included. However, it significantly attenuates the association between mismatch and service outcomes: interaction coefficients are negative for both passenger waiting time and driver idle time. These findings suggest that mixed-use urban structure may buffer how localized market frictions translate into platform service costs, highlighting a link between land use planning and two-sided mobility market performance.
+    </div>
+  </li>
+</ul>
 
+<ul>
+  <li>
+    "Capacity dividend vs. Perceived negative externalities: A study on the effects of large grid nodes on land and housing markets in China." (with Xuewen Li and Shaojun Wang)
+  </li>
+</ul>
