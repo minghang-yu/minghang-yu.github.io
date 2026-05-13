@@ -16,11 +16,19 @@ _Land use and urban planning_
 * "Transportation Infrastructure and Spatial Redistribution of Urban Land Use: Evidence from Chinese Counties near Beijing-Shanghai HSR" (with Xuewen Li, Wu Xiao, and Jiatong Zhou) _(Slides are available upon request)_
 
 _Housing policies_
-* "Policy-induced re-sorting and congestion in rationed housing markets." (with Cristian Badarinza, Kwan Ok Lee, and Hau Wei Teng) <details style="display: inline;"><summary style="display: inline; cursor: pointer;"><span class="abstract-link">[Abstract]</span> | <em>Slides and manuscript are available upon request</em></summary><div style="margin-top: 0.5em;">
 
-  In rationed public housing markets, segmentation can reshape congestion by reallocating applicants across submarkets. We study a reform that imposed extended minimum holding periods and purchase subsidy recovery on advantaged-location public housing in Singapore, which redistributes demand congestion across different segments. Administrative application statistics reveal a 25% congestion decline in previously oversubscribed location segments after the reform implementation. Using a model of segmented search, administrative application data from 2019 to 2025, and a bespoke survey of young-aged households eliciting preference rankings under pre- and post-reform regimes, we reveal stable preference parameters across policy regimes, and find that altered expected payoffs lead nearly 30% of respondents to revise their application choice in response to the government intervention. Further counterfactual exercises attribute approximately 40% of the congestion decline to demand reallocation. These findings show that post-adjustment changes in observed choices need not imply changes in underlying preferences. In rationed housing markets, stable valuations can still generate substantial re-sorting when policy changes segment-level expected payoffs, and this re-sorting can partly explain observed congestion adjustment.
+<ul>
+  <li>
+    "Policy-induced re-sorting and congestion in rationed housing markets." (with Cristian Badarinza, Kwan Ok Lee, and Hau Wei Teng)
+    <input type="checkbox" id="abstract-housing-resorting" class="abstract-toggle">
+    <label for="abstract-housing-resorting" class="abstract-link">[Abstract]</label>
+    <span> | <em>Slides and manuscript are available upon request</em></span>
 
-  </div></details>
+    <div class="abstract-content">
+      In rationed public housing markets, segmentation can reshape congestion by reallocating applicants across submarkets. We study a reform that imposed extended minimum holding periods and purchase subsidy recovery on advantaged-location public housing in Singapore, which redistributes demand congestion across different segments. Administrative application statistics reveal a 25% congestion decline in previously oversubscribed location segments after the reform implementation. Using a model of segmented search, administrative application data from 2019 to 2025, and a bespoke survey of young-aged households eliciting preference rankings under pre- and post-reform regimes, we reveal stable preference parameters across policy regimes, and find that altered expected payoffs lead nearly 30% of respondents to revise their application choice in response to the government intervention. Further counterfactual exercises attribute approximately 40% of the congestion decline to demand reallocation. These findings show that post-adjustment changes in observed choices need not imply changes in underlying preferences. In rationed housing markets, stable valuations can still generate substantial re-sorting when policy changes segment-level expected payoffs, and this re-sorting can partly explain observed congestion adjustment.
+    </div>
+  </li>
+</ul>
   
 Selected Works In Progress
 ---
