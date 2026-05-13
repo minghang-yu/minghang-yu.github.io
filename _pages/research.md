@@ -72,8 +72,4 @@ Selected Works In Progress
   </li>
 </ul>
 
-<ul>
-  <li>
-    "Capacity dividend vs. Perceived negative externalities: A study on the effects of large grid nodes on land and housing markets in China." (with Xuewen Li and Shaojun Wang)
-  </li>
-</ul>
+* "Capacity dividend vs. Perceived negative externalities: A study on the effects of large grid nodes on land and housing markets in China." (with Xuewen Li and Shaojun Wang)
