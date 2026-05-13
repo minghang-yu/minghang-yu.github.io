@@ -41,6 +41,7 @@
 @import "print";
 
 .paper-links {
+  display: inline;
   white-space: nowrap;
 }
 
@@ -49,9 +50,14 @@
 }
 
 .abstract-link {
+  display: inline !important;
+  width: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
   color: #52adc8;
   cursor: pointer;
   font-weight: 500;
+  vertical-align: baseline;
 }
 
 .abstract-link:hover {
