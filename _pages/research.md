@@ -26,7 +26,8 @@ _Built environment and mental well-being / 建成环境与居民心理健康_
     <div id="conference-quarantine" class="abstract-content" hidden>
       <ul>
         <li>The 17th International Association of China Planning (IACP) Annual Conference, 2023, Tianjin University, Tianjin, China </li>
-        <li>Association of Collegiate Schools of Planning (ACSP) Annual Conference, 2024, Seattle, WA, USA</li>
+        <li>The 2nd Global Urban Governance and Policy Conference, Shanghai Jiaotong University, Shanghai, China</li>
+        <li>Association of Collegiate Schools of Planning (ACSP) 64th Annual Conference, 2024, Seattle, WA, USA</li>
         <li>Asian Association for Investors in Non-Listed Real Estate Vehicles (ANREV)-Institute of Real Estate and Urban Studies (IREUS) Research Conference, National University of Singapore, Singapore</li>
       </ul>
     </div>
@@ -46,6 +47,12 @@ _Land use and urban planning / 土地利用与城市规划_
     <div id="abstract-sheltered-walkways" class="abstract-content" hidden>
       Cities seeking climate-resilient mobility must shift short trips from motorized to active modes, yet heat and precipitation raise the access cost of walking. Exploiting Singapore’s Walk-to-Ride Programme, we test whether passive, climate-adaptive infrastructure changes travel behavior at the margin. We combine geolocated rollout records of sheltered walkways, high-frequency bus-stop-level origin–destination flows, and three waves of household travel surveys. Motivated by the stylized negative association between surrounding sheltered walkway coverage and short-distance bus feeder trips at the transit hub level, difference-in-differences estimates based on sheltered walkway connection show that sheltered walkway construction increases walking-to-hub access by 9.4 percentage points and reduces short-distance-feeder bus access by 8.6 percentage points. Effects concentrate within 800 meters from transit hubs and intensify during rainfall periods, consistent with lower exposure costs. We also find a 3.3-percentage-point increase in walking in the entire-trip mode choice. Modular, low-cost retrofits along existing rights-of-way can unlock suppressed walking demand and strengthen transit system robustness under a warmer, more precipitation-extreme climate.
     </div>
+    <div id="conference-quarantine" class="abstract-content" hidden>
+      <ul>
+        <li>The Urban China Research Network (UCRN) 2025 Annual Conference, Sichuan University, Chengdu, Sichuan, China </li>
+        <li>Association of Collegiate Schools of Planning (ACSP) 65th Annual Conference, 2025, Minneapolis, MN, USA</li>
+        <li>The 6th World Planning School Conference, Helsinki, Finland <em>(scheduled)</em></li>
+      </ul>
   </li>
 </ul>
 
