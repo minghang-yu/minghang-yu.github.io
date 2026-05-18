@@ -25,7 +25,7 @@ _Built environment and mental well-being / 建成环境与居民心理健康_
   </li>
 </ul>
 
-_Land use and urban planning_
+_Land use and urban planning / 土地利用与城市规划_
 
 <ul>
   <li>
@@ -55,7 +55,7 @@ _Land use and urban planning_
   </li>
 </ul>
 
-_Housing policies_
+_Housing policies / 住房政策_
 
 <ul>
   <li>
@@ -71,7 +71,7 @@ _Housing policies_
   </li>
 </ul>
   
-Selected Works In Progress
+Selected Works In Progress / 正在进行的研究工作
 ---
 
 <ul>
