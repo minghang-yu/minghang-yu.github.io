@@ -42,12 +42,14 @@ _Land use and urban planning / 土地利用与城市规划_
     <span class="paper-links">
       <button type="button" class="abstract-link" onclick="document.getElementById('abstract-sheltered-walkways').toggleAttribute('hidden')">[Abstract]</button>
       <span>| <em>Slides and manuscript are available upon request</em></span>
+      <span>|</span>
+      <button type="button" class="abstract-link" onclick="document.getElementById('conference-sheltered-walkways').toggleAttribute('hidden')">[presented conferences]</button>
     </span>
 
     <div id="abstract-sheltered-walkways" class="abstract-content" hidden>
       Cities seeking climate-resilient mobility must shift short trips from motorized to active modes, yet heat and precipitation raise the access cost of walking. Exploiting Singapore’s Walk-to-Ride Programme, we test whether passive, climate-adaptive infrastructure changes travel behavior at the margin. We combine geolocated rollout records of sheltered walkways, high-frequency bus-stop-level origin–destination flows, and three waves of household travel surveys. Motivated by the stylized negative association between surrounding sheltered walkway coverage and short-distance bus feeder trips at the transit hub level, difference-in-differences estimates based on sheltered walkway connection show that sheltered walkway construction increases walking-to-hub access by 9.4 percentage points and reduces short-distance-feeder bus access by 8.6 percentage points. Effects concentrate within 800 meters from transit hubs and intensify during rainfall periods, consistent with lower exposure costs. We also find a 3.3-percentage-point increase in walking in the entire-trip mode choice. Modular, low-cost retrofits along existing rights-of-way can unlock suppressed walking demand and strengthen transit system robustness under a warmer, more precipitation-extreme climate.
     </div>
-    <div id="conference-quarantine" class="abstract-content" hidden>
+    <div id="conference-sheltered-walkways" class="abstract-content" hidden>
       <ul>
         <li>The Urban China Research Network (UCRN) 2025 Annual Conference, Sichuan University, Chengdu, Sichuan, China </li>
         <li>Association of Collegiate Schools of Planning (ACSP) 65th Annual Conference, 2025, Minneapolis, MN, USA</li>
