@@ -16,11 +16,19 @@ _Built environment and mental well-being / 建成环境与居民心理健康_
     <span class="paper-links">
       <button type="button" class="abstract-link" onclick="document.getElementById('abstract-quarantine').toggleAttribute('hidden')">[Abstract]</button>
       <span>| <em>Slides and manuscript are available upon request</em></span>
+      <span>|</span>
+      <button type="button" class="abstract-link" onclick="document.getElementById('conference-quarantine').toggleAttribute('hidden')">[presented conferences]</button>
     </span>
 
     <div id="abstract-quarantine" class="abstract-content" hidden>
      Neighborhood public space is an important component of people’s daily lives. Although existing literature has studied the effects of neighborhood public space access on people’s daily well-being, more studies are needed to understand its mental health effects during emergencies such as the COVID-19 pandemic. Using survey data from 3,022 residents in Beijing, China, in July 2020, we find that people with quarantine experience are associated with a higher risk of depression. More importantly, we find that access to certain public spaces, namely parks and shopping points of interest (POIs), significantly moderates the quarantine–depression association. In other words, good access to parks and shopping POIs can amplify the adverse effects of quarantine on mental health. Subsample analyses reveal that the magnitudes of such positive moderating effects are larger for those who identify themselves as extroverts. This research aligns with the United Nations’ Sustainable Development Goals, highlighting the increasing social concern over mental health, exacerbated by the pandemic. It builds on the “stress process model,” which views public space as both a potential stressor and a psychosocial resource. Our findings suggest a dual role for public spaces: while offering first-order mental health benefits, they can also intensify stressors like quarantine in emergencies. The study underlines the need for public health and urban policy to consider not just the therapeutic aspects of public spaces but also their potential to amplify adverse effects in crises. This nuanced understanding is crucial for designing more resilient urban environments that support mental well-being, especially in extroverts, during future public health emergencies.
-
+    </div>
+    <div id="conference-quarantine" class="abstract-content" hidden>
+      <ul>
+        <li>The 17th International Association of China Planning (IACP) Annual Conference, 2023, Tianjin University, Tianjin, China </li>
+        <li>Association of Collegiate Schools of Planning (ACSP) Annual Conference, 2024, Seattle, WA, USA</li>
+        <li>Asian Association for Investors in Non-Listed Real Estate Vehicles (ANREV)-Institute of Real Estate and Urban Studies (IREUS) Research Conference, National University of Singapore, Singapore</li>
+      </ul>
     </div>
   </li>
 </ul>
