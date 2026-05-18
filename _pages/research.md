@@ -25,10 +25,10 @@ _Built environment and mental well-being / 建成环境与居民心理健康_
     </div>
     <div id="conference-quarantine" class="abstract-content" hidden>
       <ul>
-        <li>The 17th International Association of China Planning (IACP) Annual Conference, 2023, Tianjin University, Tianjin, China </li>
-        <li>The 2nd Global Urban Governance and Policy Conference, Shanghai Jiaotong University, Shanghai, China</li>
-        <li>Association of Collegiate Schools of Planning (ACSP) 64th Annual Conference, 2024, Seattle, WA, USA</li>
         <li>Asian Association for Investors in Non-Listed Real Estate Vehicles (ANREV)-Institute of Real Estate and Urban Studies (IREUS) Research Conference, National University of Singapore, Singapore</li>
+        <li>Association of Collegiate Schools of Planning (ACSP) 64th Annual Conference, 2024, Seattle, WA, USA</li>
+        <li>The 2nd Global Urban Governance and Policy Conference, 2024, Shanghai Jiaotong University, Shanghai, China</li>
+        <li>The 17th International Association of China Planning (IACP) Annual Conference, 2023, Tianjin University, Tianjin, China </li>
       </ul>
     </div>
   </li>
@@ -51,9 +51,9 @@ _Land use and urban planning / 土地利用与城市规划_
     </div>
     <div id="conference-sheltered-walkways" class="abstract-content" hidden>
       <ul>
-        <li>The Urban China Research Network (UCRN) 2025 Annual Conference, Sichuan University, Chengdu, Sichuan, China </li>
+        <li>The 6th World Planning School Conference, 2026, Helsinki, Finland <em>(scheduled)</em></li>
         <li>Association of Collegiate Schools of Planning (ACSP) 65th Annual Conference, 2025, Minneapolis, MN, USA</li>
-        <li>The 6th World Planning School Conference, Helsinki, Finland <em>(scheduled)</em></li>
+        <li>The Urban China Research Network (UCRN) 2025 Annual Conference, Sichuan University, Chengdu, Sichuan, China </li>
       </ul>
     </div>
   </li>
@@ -65,10 +65,18 @@ _Land use and urban planning / 土地利用与城市规划_
     <span class="paper-links">
       <button type="button" class="abstract-link" onclick="document.getElementById('abstract-hsrsiting').toggleAttribute('hidden')">[Abstract]</button>
       <span>| <em>Slides and manuscript are available upon request</em></span>
+      <span>|</span>
+      <button type="button" class="abstract-link" onclick="document.getElementById('conference-hsrsiting').toggleAttribute('hidden')">[presented conferences]</button>
     </span>
 
     <div id="abstract-hsrsiting" class="abstract-content" hidden>
       High-speed railway investments are promoted as engines of urban expansion, yet existing studies largely focus on average effects and overlook how station siting reshapes the directional structure of urban expansion. This gap is consequential for planning practice, as station locations are largely administratively determined and closely intertwined with land-use regulation. This study examines whether and how HSR stations reorient urban expansion toward specific spatial directions, generating anisotropic growth rather than uniform radial expansion. Using grid-level land development data, we construct directional expansion indicators that capture both alignment with the station direction and the intensity of development. Empirically, we find that following HSR opening, urban expansion becomes significantly more station-oriented. Newly developed areas extend approximately 2.3 to 2.5 km farther toward HSR stations relative to other directions, while directional alignment increases by about 6.1 to 6.3 percentage points. These effects are pronounced around peripheral stations but largely absent for inner-city stations embedded within existing urban cores. Sector-level analyses further show that station-oriented alignment translates into substantial increases in developed land rather than marginal geometric shifts. To interpret these patterns, we develop a spatial equilibrium model that extends the monocentric city framework by introducing an external transport node providing access to external markets. The model predicts directionally differentiated bid rents and outward expansion biased toward the station, mirroring the observed empirical regularities. The findings suggest that HSR stations act as directional anchors of urban growth. For planning practice, they highlight the importance of coordinating station siting with land supply sequencing and zoning controls, particularly in peripheral areas, to manage long-run spatial imbalance and uneven development trajectories.
+   </div>
+    <div id="conference-hsrsiting" class="abstract-content" hidden>
+      <ul>
+        <li>The 12th International Workshop on Regional, Urban, and Spatial Economics in China, 2025, Wuhan University, Wuhan, Hubei, China</li>
+        <li>The 18th International Association for China Planning (IACP) Annual Conference, 2024, Zhejiang University, Hangzhou, Zhejiang, China</li>
+      </ul>
     </div>
   </li>
 </ul>
@@ -81,13 +89,28 @@ _Housing policies / 住房政策_
     <span class="paper-links">
       <button type="button" class="abstract-link" onclick="document.getElementById('abstract-housing-resorting').toggleAttribute('hidden')">[Abstract]</button>
       <span>| <em>Slides and manuscript are available upon request</em></span>
+       <span>|</span>
+      <button type="button" class="abstract-link" onclick="document.getElementById('conference-housing-resorting').toggleAttribute('hidden')">[presented conferences]</button>
     </span>
 
     <div id="abstract-housing-resorting" class="abstract-content" hidden>
       In rationed public housing markets, segmentation can reshape congestion by reallocating applicants across submarkets. We study a reform that imposed extended minimum holding periods and purchase subsidy recovery on advantaged-location public housing in Singapore, which redistributes demand congestion across different segments. Administrative application statistics reveal a 25% congestion decline in previously oversubscribed location segments after the reform implementation. Using a model of segmented search, administrative application data from 2019 to 2025, and a bespoke survey of young-aged households eliciting preference rankings under pre- and post-reform regimes, we reveal stable preference parameters across policy regimes, and find that altered expected payoffs lead nearly 30% of respondents to revise their application choice in response to the government intervention. Further counterfactual exercises attribute approximately 40% of the congestion decline to demand reallocation. These findings show that post-adjustment changes in observed choices need not imply changes in underlying preferences. In rationed housing markets, stable valuations can still generate substantial re-sorting when policy changes segment-level expected payoffs, and this re-sorting can partly explain observed congestion adjustment.
     </div>
+    <div id="conference-housing-resorting" class="abstract-content" hidden>
+      <ul>
+        <li>The American Real Estate and Urban Economics Association (AREUEA) – Allied Social Science Associations (ASSA) Annual Conference, 2027, Washington, D.C., USA <em>(scheduled)</em></li>
+        <li>Asian Real Estate Society (AsRES) – Global Chinese Real Estate Congress (GCREC) Joint International Real Estate Conference, 2026, Zhejiang University of Technology, Hangzhou, China <em>(scheduled)</em></li>
+        <li>The 20th International Association for China Planning (IACP) Annual Conference, 2026, Chang'an University, Xi'an, Shaanxi, China <em>(scheduled)</em></li>
+        <li>European Network for Housing Research (ENHR) 2026 Annual Conference, Oslo, Norway <em>(scheduled)</em></li>
+        <li>Association of Collegiate Schools of Planning (ACSP) 65th Annual Conference, 2025, Minneapolis, MN, USA</li>
+        <li>Asian Real Estate Society (AsRES) International Real Estate Conference, 2025, Melbourne, Australia</li>
+        <li>Asia-Pacific Network for Housing Research (APNHR) 2025 Annual Conference, Tsinghua University, Beijing, China</li>
+        <li>NUS Institute of Real Estate and Urban Studies (IREUS) – Penn Institute of Urban Research (PIUR) Joint Workshop: Housing & Demographic Dynamics, 2025, National University of Singapore, Singapore</li>
+      </ul>
+    </div>
   </li>
 </ul>
+
   
 Selected Works In Progress / 正在进行的研究工作
 ---
