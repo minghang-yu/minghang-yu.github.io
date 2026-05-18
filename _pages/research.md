@@ -55,6 +55,7 @@ _Land use and urban planning / 土地利用与城市规划_
         <li>Association of Collegiate Schools of Planning (ACSP) 65th Annual Conference, 2025, Minneapolis, MN, USA</li>
         <li>The 6th World Planning School Conference, Helsinki, Finland <em>(scheduled)</em></li>
       </ul>
+    </div>
   </li>
 </ul>
 
