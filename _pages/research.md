@@ -44,6 +44,8 @@ _Land use and urban planning / 土地利用与城市规划_
     <br>
     <span class="paper-links">
       <button type="button" class="abstract-link" onclick="document.getElementById('abstract-sheltered-walkways').toggleAttribute('hidden')">[Abstract]</button>
+      <span>|</span>
+      <a class="abstract-link" href="https://github.com/minghang-yu/W2R-Singapore" target="_blank" rel="noopener noreferrer">[Code]</a>
       <span>| <em>Slides and manuscript are available upon request</em></span>
       <span>|</span>
       <button type="button" class="abstract-link" onclick="document.getElementById('conference-sheltered-walkways').toggleAttribute('hidden')">[presented conferences]</button>
