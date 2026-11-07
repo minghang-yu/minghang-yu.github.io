@@ -38,7 +38,10 @@ _Land use and urban planning / 土地利用与城市规划_
 
 <ul>
   <li>
-    "Linking neighborhoods to transit: Climate-resilient mobility through sheltered walkways." (with Qiuxia Gao, Kwan Ok Lee, and Shuting Zhang)
+    "Linking neighborhoods to transit: Climate-adaptive mobility through sheltered walkways." (with Qiuxia Gao, Kwan Ok Lee, and Shuting Zhang)
+    <br>
+    <em>npj Sustainable Mobility and Transport</em> (accepted).
+    <br>
     <span class="paper-links">
       <button type="button" class="abstract-link" onclick="document.getElementById('abstract-sheltered-walkways').toggleAttribute('hidden')">[Abstract]</button>
       <span>| <em>Slides and manuscript are available upon request</em></span>
@@ -47,7 +50,7 @@ _Land use and urban planning / 土地利用与城市规划_
     </span>
 
     <div id="abstract-sheltered-walkways" class="abstract-content" hidden>
-      Cities seeking climate-resilient mobility must shift short trips from motorized to active modes, yet heat and precipitation raise the access cost of walking. Exploiting Singapore’s Walk-to-Ride Programme, we test whether passive, climate-adaptive infrastructure changes travel behavior at the margin. We combine geolocated rollout records of sheltered walkways, high-frequency bus-stop-level origin–destination flows, and three waves of household travel surveys. Motivated by the stylized negative association between surrounding sheltered walkway coverage and short-distance bus feeder trips at the transit hub level, difference-in-differences estimates based on sheltered walkway connection show that sheltered walkway construction increases walking-to-hub access by 9.4 percentage points and reduces short-distance-feeder bus access by 8.6 percentage points. Effects concentrate within 800 meters from transit hubs and intensify during rainfall periods, consistent with lower exposure costs. We also find a 3.3-percentage-point increase in walking in the entire-trip mode choice. Modular, low-cost retrofits along existing rights-of-way can unlock suppressed walking demand and strengthen transit system robustness under a warmer, more precipitation-extreme climate.
+      We study Singapore's Walk-to-Ride (W2R) Programme, which expanded sheltered pedestrian connections around transit hubs. Combining the 2008, 2012, and 2016 Household Interview Travel Surveys with the later-observed sheltered-walkway network, we estimate a spatial difference-in-differences model of travel-mode choice. Sheltered-walkway connectivity is associated with a 9.3-percentage-point increase in first-mile walking and an 8.6-percentage-point decline in bus access among trips involving access to a transit hub, together with a 3.0-percentage-point increase in recorded walking as the main mode. Main-mode rail use shows no detectable change, indicating that the strongest response occurs at the first-mile access margin rather than in main travel-mode choice. Treatment is defined using the later-observed sheltered-walkway network footprint, and the estimates are interpreted as intention-to-treat effects; additional checks provide no evidence of treatment-induced selection into the transit-hub-conditioned sample. Pre-pandemic farecard data provide complementary descriptive evidence on short-distance, hub-associated bus flows. Passive weather protection can therefore shift how travelers reach high-capacity transit, although the relevance of this margin depends on local travel patterns and climatic exposure.
     </div>
     <div id="conference-sheltered-walkways" class="abstract-content" hidden>
       <ul>
