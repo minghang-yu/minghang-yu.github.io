@@ -40,7 +40,7 @@ _Land use and urban planning / 土地利用与城市规划_
   <li>
     "Linking neighborhoods to transit: Climate-adaptive mobility through sheltered walkways." (with Qiuxia Gao, Kwan Ok Lee, and Shuting Zhang)
     <br>
-    <em>npj Sustainable Mobility and Transport</em> (accepted).
+    <em><strong>npj Sustainable Mobility and Transport</strong></em> (accepted).
     <br>
     <span class="paper-links">
       <button type="button" class="abstract-link" onclick="document.getElementById('abstract-sheltered-walkways').toggleAttribute('hidden')">[Abstract]</button>
